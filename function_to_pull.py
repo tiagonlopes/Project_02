@@ -16,7 +16,7 @@ c = Census(api_key, year=2018)
 
 POSTGRES = {
     'user': 'postgres',
-    'pw': '@Pifarus_1190',
+    'pw': 'YOUR PASS',
     'db': 'project_02',
     'host': 'localhost',
     'port': '5432',
